@@ -5,12 +5,16 @@ body {
 
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: rgba(16, 15, 15, 0.87);
+    --card-back-color: #DBE4EF;
 }
 
 #container {
-    display:flex ;
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     padding: 4rem;
+     gap: 3rem;
 }
 
 .cartao {
