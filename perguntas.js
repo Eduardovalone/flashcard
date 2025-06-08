@@ -1,5 +1,12 @@
 criaCartao(
     'The Last Of US',
+    'Quem são os dois protagonistas principais da série?',
+    'Joel Miller e Ellie Williams.'
+)
+
+
+criaCartao(
+    'The Last Of US',
     'Em que ano se passa a maior parte da história?',
     'Em 2023, 20 anos após o surto em 2003.'
 )
