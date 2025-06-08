@@ -22,3 +22,16 @@ criaCartao(
     'A série é baseada em qual outro tipo de mídia?',
     'Em um videogame lançado originalmente para PlayStation 3 em 2013.'
 )
+
+
+criaCartao(
+    'The Last Of Us',
+    'O que são os “Estaladores”?',
+    'São pessoas infectadas em estágio avançado, que não enxergam e usam a ecolocalização para caçar.'
+)
+
+criaCartao(
+    'The Last Of Us',
+    'Em qual cidade Joel e Ellie começam sua jornada juntos?',
+    'Boston.'
+)
